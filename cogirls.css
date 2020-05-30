@@ -1,0 +1,37 @@
+.diff{
+	font-size: 20px;
+	color: #59055A;
+}
+
+img{
+	width: 250Px;
+	padding: 1Px;
+	border: 1px solid #ccc;
+	margin-left: 450Px;
+	}
+
+#workspace{
+	/*#C10E6D;*/
+	text-decoration: underline;
+	color:#72D12B;
+
+}
+
+h2{
+	
+	text-decoration: underline;
+	color:#72D12B;
+
+}
+.creativity{
+	width: 800Px;
+	padding: 1Px;
+	border: 1px solid #FBFB00;
+	margin-left: 50Px;
+}
+
+
+h3{
+	
+	text-decoration: underline;
+	color:#FA72B4    ;
